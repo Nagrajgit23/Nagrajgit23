@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @Sample Project
-- 👀 I’m interested in Testing
-- 🌱 I’m currently learning GITHUB
-- 💞️ I’m looking to collaborate on GOOGLE
-- 📫 How to reach me: 8610772277
-<!---
-Nagrajgit23/Nagrajgit23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-new version
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
