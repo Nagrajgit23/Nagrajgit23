@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nagrajgit23
+- 👋 Hi, I’m @Sample Project
 - 👀 I’m interested in Testing
 - 🌱 I’m currently learning GITHUB
 - 💞️ I’m looking to collaborate on GOOGLE
